@@ -46,4 +46,3 @@ FUNCTIONS INCLUDED IN THE REPORT:
    - Generate reports covering the period from January to December to provide a comprehensive view of the road accident data for the entire year.
    - Ensure that the analysis accounts for the specific time range and presents insights in the context of the annual cycle.
 
-Please make sure to communicate in English.

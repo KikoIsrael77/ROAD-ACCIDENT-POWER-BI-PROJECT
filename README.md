@@ -52,4 +52,4 @@ Access data Set here;
 
 https://drive.google.com/drive/folders/1hPXl-quuuPbD1745zy-gcsw5B5Zg9SMT?usp=sharing
 
-if you click and doenot work, kindly copy and past in your web browser
+if you click and does not work, kindly copy and past in your web browser

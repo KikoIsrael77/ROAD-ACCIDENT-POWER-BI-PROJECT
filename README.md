@@ -2,7 +2,7 @@
 ROAD ACCIDENT POWER BI INSIGHT VISUALISATION
 FUNCTIONS INCLUDED IN THE REPORT:
 
-1. Stakeholder Engagement:
+1. Stakeholder Engagement: 
    - Conduct meetings with stakeholders to understand their requirements and expectations.
    - Collaborate with stakeholders to align the project objectives with their needs.
    - Seek clarification on any ambiguous requirements to ensure accurate understanding.
